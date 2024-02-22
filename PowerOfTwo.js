@@ -1,4 +1,5 @@
 /*Question 3 - Power of Two */
+/*
 
 //function to check if a number is a power of two
 /**
