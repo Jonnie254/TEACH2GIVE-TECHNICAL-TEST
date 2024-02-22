@@ -1,5 +1,5 @@
 /*Question 3 - Power of Two */
-/*
+/*Write a program that takes an integer as input and returns true if the input is a power of two.*/
 
 //function to check if a number is a power of two
 /**
