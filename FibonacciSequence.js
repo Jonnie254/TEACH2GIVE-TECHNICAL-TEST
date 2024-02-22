@@ -1,5 +1,9 @@
 /* Question 2 - Fibonacci Sequence */
 
+/**
+ * Generates a Fibonacci sequence up to a maximum value of 100.
+ * @returns {void}
+ */
 function fibonacci() {
   let fibArray = [0, 1];
   //loop through the array and add the last two numbers to get the next number
