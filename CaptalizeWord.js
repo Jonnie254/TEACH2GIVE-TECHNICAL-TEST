@@ -6,6 +6,7 @@ string, and then returns the result string.*/
  * Capitalizes the first letter of each word in a given input string.
  * @param {string} input - The input string.
  * @returns {string} - The input string with each word's first letter capitalized.
+ 
  */
 function capitalizeWords(input) {
   let words = input.split(" ");
